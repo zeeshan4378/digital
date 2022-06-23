@@ -1,0 +1,187 @@
+#charry{
+	background-image:url(./1.jpg);
+	height: 1300px;
+	width: 100%;
+	background-size: cover;
+	text-align: center;
+}
+.one{
+	background-color: rgba(0, 0, 0, 0.8);
+	height:1300px;
+}
+.one h1{
+	padding-top: 400px;
+	text-align: center;
+	font-size:75px;
+}
+.one h2{
+	font-size:35px;
+}
+.one hr{
+	color: tomato;
+	width: 815px
+}
+.one button{
+	height: 50px;
+	color: white;
+	background-color: tomato;
+	width: 120px;
+	border-radius: 7px;
+}
+#spider{
+	margin-top: 20px;
+	margin-right: 12px;
+}
+.two{
+padding-top: 20px;
+padding-right: 20px;
+border: groove;
+text-align: center;
+height: 360px;
+background-color: lightgray;
+width: 300px;
+float: left;
+margin-right:224px;
+}
+.two h1{
+	
+	text-transform:uppercase;
+}
+.three{
+padding-top: 20px;
+padding-right: 20px;
+border: groove;
+text-align: center;
+height: 360px;
+background-color: lightgray;
+width: 300px;
+float: left;
+margin-right:224px;
+margin-top: 20px;
+}
+.three h1{
+	text-transform: uppercase;
+}
+#iron{
+	
+}
+.secone img{ 
+	background-size: cover;
+float: right; }
+
+
+.secone button{
+	background-color: tomato;
+	width: 150px;
+	height: 70px;
+	color: white;
+	font-size: 20px;
+	border-radius: 7px;
+	margin-top: 20px;
+}
+.secone h1{
+	text-align: center;
+	text-transform:none;
+	font-size: 45px;
+
+}
+.secone p{
+	font-size: 35px;
+	text-align: center;
+}
+#slider{
+	
+	background-image:url(./2.jpg);
+	margin-top: 20px;
+	background-size: cover;
+	width: 100%;
+	height: 700px;
+	text-align: center;
+}
+.divone{
+	background-color: rgba(0, 0, 0, 0.7);
+	height: 700px;
+}
+.divone h1{
+	color: tomato;
+	padding-top: 100px;
+	font-size: 50px;
+}
+.divone hr{
+	width: 700px;
+}
+.divone p{
+	color: white;
+	padding-top: 50px;
+	font-size: 25px;
+}
+.divone button{
+	background-color: tomato;
+	color: white;
+	width: 150px;
+	height: 60px;
+	border-radius: 7px;
+	font-size: 20px;
+}
+#line{
+	margin-top: 40px;
+}
+.lineone img{
+	float: right;
+}
+.lineone h1{
+	padding-left : 100px;
+	font-size: 50px;
+}
+.lineone h3{
+	padding-left: 65px;
+	font-size: 30px;
+}
+.lineone p{
+	padding-left: 90px;
+	font-size: 28px;
+}
+
+#circle{
+	background-image: url(./3.jpg);
+	width: 100%;
+	height: 700px;
+	margin-top: 40px;
+	text-align: center;
+	background-size: cover;
+
+}
+.circleone{
+	background-color: rgba(0, 0, 0, 0.4);
+	height: 700px;
+
+}
+.circleone img{
+	padding-top: 30px;
+}
+.circleone h1{
+	padding-top: 20px;
+	color: white;
+	font-size: 40px;
+}
+
+#steel{
+	
+	background-image: url(./4.png);
+	width: 100%;
+	height: 165px;
+}
+.steelone h2{
+	float: right;
+	margin-right: 20px;
+}
+.steelone h1{
+	padding-left: 30px;
+	font-size: 30px;
+
+}
+.steelone img{
+	padding-left: 30px;
+}
+
+
